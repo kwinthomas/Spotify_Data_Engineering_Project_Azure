@@ -1,1 +1,1 @@
-# Spotify_Data_Engineering_Project_Azure
+# Spotify Data Engineering Project Azure

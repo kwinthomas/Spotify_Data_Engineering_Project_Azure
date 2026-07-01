@@ -1,0 +1,27 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "spotify-de-project-adf"
+		},
+		"Spotify_project_ADLS_accountKey": {
+			"value": ""
+		},
+		"spotify_project_Azure_SQL_password": {
+			"value": ""
+		},
+		"Spotify_project_ADLS_properties_typeProperties_url": {
+			"value": "https://spotifyprojectadls.dfs.core.windows.net/"
+		},
+		"spotify_project_Azure_SQL_properties_typeProperties_server": {
+			"value": "spotifydeproject.database.windows.net"
+		},
+		"spotify_project_Azure_SQL_properties_typeProperties_database": {
+			"value": "spotifydeprojectdb"
+		},
+		"spotify_project_Azure_SQL_properties_typeProperties_userName": {
+			"value": "kevin"
+		}
+	}
+}
